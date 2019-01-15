@@ -1,0 +1,9 @@
+name: Nickname
+author: §e] §2zZPROGAMERZz423 §e[ §c1.0.0 
+main: Nickname\Main
+version: 1.0.0
+api: [3.1.0, 3.2.2, 3.5.5, 4.0.0]
+
+commands:
+ nick:
+  description: "Change players nickname to hide identity"
