@@ -17,7 +17,7 @@
  * limitations under the License.
  */
 
-namespace Nickname;
+namespace zZPROGAMERZz423\Nickname;
 
 use pocketmine\Player;
 use pocketmine\Server;
